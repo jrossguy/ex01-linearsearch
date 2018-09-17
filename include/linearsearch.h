@@ -1,5 +1,6 @@
 #include <cstdint>
 
+
 namespace edu
 {
 	namespace vcccd
